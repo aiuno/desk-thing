@@ -10,5 +10,4 @@ Desk Thing is a desktop application that integrates with Spotify and provides a 
 - Customizable launcher for shortcuts
 - Weather information display
 
-Image:
 ![Desk Thing](/static/screenshot.png)
