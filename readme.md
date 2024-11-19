@@ -2,6 +2,8 @@
 
 Desk Thing is a desktop application that integrates with Spotify and provides a customizable launcher for shortcuts. It also displays weather information based on your location.
 
+NOTE: Made for the raspberry pi with the official 7" touch screen
+
 ## Features
 
 - Spotify player controls (play, pause, next, previous, seek)
