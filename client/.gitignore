@@ -1,0 +1,25 @@
+/client/node_modules
+
+# Output
+/client/.output
+/client/.vercel
+/client/.svelte-kit
+/client/build
+
+# OS
+/client/.DS_Store
+/client/Thumbs.db
+
+# Env
+/client/.env
+/client/.env.*
+/client/!.env.example
+/client/!.env.test
+
+# Vite
+/client/vite.config.ts.timestamp-*
+/client/vite.config.js.timestamp-*
+
+# Server
+/server/target
+/server/config.json
